@@ -1,0 +1,12 @@
+{
+  "appId": "org.pulseark.bridgenote",
+  "appName": "BridgeNote AI",
+  "webDir": "www",
+  "server": {
+    "url": "https://bridgenote-ai-pilot.streamlit.app/",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
